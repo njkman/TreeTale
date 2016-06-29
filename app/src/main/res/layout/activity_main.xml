@@ -60,14 +60,14 @@
 
 
             <ImageView
-                android:id="@+id/treeOne"
+                android:id="@+id/tree"
                 android:layout_width="125dp"
                 android:layout_height="125dp"
                 android:src="@drawable/treeholder"
                 />
 
             <TextView
-                android:id="@+id/textOne"
+                android:id="@+id/title"
                 android:layout_width="80dp"
                 android:layout_height="125dp"
                 android:text="The spider who ate the jam"

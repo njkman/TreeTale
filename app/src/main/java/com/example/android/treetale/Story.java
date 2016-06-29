@@ -1,7 +1,7 @@
 package com.example.android.treetale;
 
 /**
- * Created by nj_km on 19/06/2016.
+ * Created by nj_km on 19/06/2016. Story Class that defines the properties of each individual story in the application
  */
 public class Story {
 
@@ -43,5 +43,8 @@ public class Story {
 
     public String toString() {
         return "Story [id=" + id + ", title=" + title + ", description=" + description + "]";
+    }
+
+    public void add(Story story) {
     }
 }
